@@ -13,4 +13,3 @@ final class SessionsDevicesApiServiceProvider extends ServiceProvider
         $this->loadRoutesFrom(__DIR__.'/../routes/api.php');
     }
 }
-
